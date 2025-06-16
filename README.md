@@ -15,4 +15,4 @@ A Etapa II aplica Simulated Annealing para resolver o clássico problema das 8 r
 📄 **Relatório Final**  
 Você pode abrir o relatório completo deste projeto diretamente no navegador:
 
-👉 📄 [Abrir Relatório (PDF)](insira o link aqui)
+👉 📄 [Abrir Relatório (PDF)](https://github.com/marcosfilho95/inteligencia-artificial-metaheuristicas/blob/main/Relatorio_Busca_Otimizacao.pdf)
